@@ -14,4 +14,4 @@ Go to the project directory,
 ```
 jupyter notebook
 ```
-click ```FirebasePrac.ipynb```and run the code by order
+Click  ```FirebasePrac.ipynb``` and run the code by order
